@@ -1,2 +1,3 @@
-# build-a-trendy-e-commerce-landing-page-for-a-susta
-Landing page generated with LandMake
+# Build a trendy e-commerce landing page for a sustainable clo...
+
+Landing page generated with [LandMake](https://landmake.dev)
